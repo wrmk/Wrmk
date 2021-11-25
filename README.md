@@ -2,7 +2,7 @@
 Here lies results of exploration web development:
 - connecting to 3rd api services
 - deploy apps to Heroku (setting up CORS)
-- validate input on front and backend
+- validate data on front and backend
 - parsing csv, html
 - unit tests
 - connecting front and backend via json
