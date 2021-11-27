@@ -1,6 +1,6 @@
 ## Hi, I’m Vladimir, ruby developer.
 Here lies results of exploration web development:
-- connecting to 3rd api services
+- work with third party APIs
 - deploy apps to Heroku (setting up CORS)
 - validate data on front and backend
 - parsing csv, html
