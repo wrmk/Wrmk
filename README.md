@@ -11,7 +11,6 @@ Here lies results of exploration web development:
 - Ruby / Rails / JS / SQL / Git / Docker / Heroku / Angular
 
 ## Contacts
-- bikmeev.vladimir@gmail.com
 - https://www.linkedin.com/in/wrmk/
 
 ## Languages
