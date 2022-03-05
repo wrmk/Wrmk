@@ -12,7 +12,3 @@ Here lies results of exploration web development:
 
 ## Contacts
 - https://www.linkedin.com/in/wrmk/
-
-## Languages
-- Russian - native
-- English - B1
