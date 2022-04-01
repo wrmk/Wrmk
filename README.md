@@ -12,3 +12,4 @@ Here lies results of exploration web development:
 
 ## Contacts
 - https://www.linkedin.com/in/wrmk/
+- bikmeev.vladimir@gmail.com
