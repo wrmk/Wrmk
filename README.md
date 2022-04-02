@@ -8,7 +8,7 @@ Here lies results of exploration web development:
 - connecting front and backend via json
 
 ## Tech
-- Ruby / Rails / JS / SQL / Git / Docker / Heroku / Angular
+- Ruby / Rails / JS / SQL / Git / Linux
 
 ## Contacts
 - https://www.linkedin.com/in/wrmk/
