@@ -1,11 +1,5 @@
 ## Hi, I’m Vladimir, ruby developer.
-Here lies results of exploration web development:
-- work with third party APIs
-- deploy apps to Heroku (setting up CORS)
-- validate data on front and backend
-- parsing csv, html
-- unit tests
-- connecting front and backend via json
+Here lies results of exploration web development
 
 ## Tech
 - Ruby / Rails / Minitest / Slim / CSS / HTML / JS / SQL / Git / Linux
