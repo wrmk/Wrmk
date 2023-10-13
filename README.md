@@ -1,7 +1,7 @@
-## Hi, I’m Vladimir, ruby developer.
+## Hi, I’m Vladimir, a Ruby developer.
 
 ## Tech
-- Ruby / Rails / Minitest / Slim / CSS / HTML / JS / SQL / Git / Linux
+- Ruby / Rails / Minitest / Slim / CSS / HTML / JS / SQL / Git / AWS / Heroku / Linux
 
 ## Contacts
 - https://www.linkedin.com/in/wrmk/
